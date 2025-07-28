@@ -35,8 +35,8 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 ```
 
 ### Requirements
-```
+
 Java 8+
 JUnit 4.13.2
 Bash (for script automation)
-```
+
